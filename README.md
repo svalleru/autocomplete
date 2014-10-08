@@ -8,5 +8,5 @@ Autocomplete App
 
 Requiremensts:
 --------------
-Twitter's typeahead.js
-Jquery 1.11
+- Twitter's typeahead.js
+- Jquery 1.11
