@@ -10,3 +10,5 @@ Requiremensts:
 --------------
 - Twitter's typeahead.js
 - Jquery 1.11
+
+Tags: autocomplete, search suggestions, typeahead
